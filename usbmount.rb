@@ -1,4 +1,4 @@
-#!/home/roger/.rbenv/versions/1.9.3-p327/bin/ruby
+#! /usr/bin/env ruby
 # General setup
 #
 Dir.mkdir "/tmp/usbmount" if !File.exists?("/tmp/usbmount")
